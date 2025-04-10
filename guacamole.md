@@ -8,3 +8,5 @@ Serves 4
 - 2 garlic cloves, minced
 - 1 lime, juiced
 - 0.5 teaspoon sea salt
+- After fixing networking issue with Credential Manager by disabling McAfee VPN content filter
+- Adding 3 Avocados
